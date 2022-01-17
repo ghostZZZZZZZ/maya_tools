@@ -16,6 +16,7 @@ from vendor.Qt import QtWidgets,QtGui,QtCore
 from vendor.Qt import QtCompat as shiboken2
 import os,sys
 
+
 def getMayaMainWindow():
     """get maya main window 
 
